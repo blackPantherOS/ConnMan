@@ -43,6 +43,17 @@ The operation is extremely simple. Add a connection with the add button, enter t
 - Hidden start on system tray
 - Automatic mounting at startup (not yet available)
 
+# Install
+Easy install on blackPanther OS
+
+  (command for for English-speaking users)
+
+  `installing blackPanther-connman`
+
+  (command for Hungarian-speaking users)
+
+  `telepites blackPanther-connman`
+
 # Demo On Youtube
 https://www.youtube.com/watch?v=iVt7WrvRpnk
 
